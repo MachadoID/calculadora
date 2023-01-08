@@ -4,8 +4,7 @@ Me desafiei em criar uma calculadora básica em PHP, e aí está o resultado!
 
 ### Imagens do projeto
 
-![image](https://user-images.githubusercontent.com/101647305/211209768-4d6308b3-2757-4a17-998b-57410482756e.png)
-
+![image](https://user-images.githubusercontent.com/101647305/211210248-b0f00651-062e-4561-a1aa-9e9593740b04.png)
 
 Com resultado:
 
