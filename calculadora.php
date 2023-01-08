@@ -1,6 +1,6 @@
 <?php
 
-include("index.php");
+include("index.html");
 
 $valor1 = isset($_POST['texto-valor1']) && is_numeric($_POST['texto-valor1']) ? $_POST['texto-valor1'] : 0;
 $valor2 = isset($_POST['texto-valor2']) && is_numeric($_POST['texto-valor2']) ? $_POST['texto-valor2'] : 0;
